@@ -1,9 +1,9 @@
-package com.lsm.entity.entity.app;
+package com.lsm.entity.app;
 
 
-import annotation.Column;
-import annotation.Table;
-import com.lsm.entity.entity.BaseEntity;
+import com.lsm.common.annotation.Column;
+import com.lsm.common.annotation.Table;
+import com.lsm.entity.BaseEntity;
 
 /**
  * 自定义注解

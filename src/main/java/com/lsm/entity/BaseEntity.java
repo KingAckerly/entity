@@ -1,8 +1,8 @@
-package com.lsm.entity.entity;
+package com.lsm.entity;
 
 
-import annotation.Id;
 import com.fasterxml.jackson.annotation.JsonFormat;
+import com.lsm.common.annotation.Id;
 
 import java.util.Date;
 
